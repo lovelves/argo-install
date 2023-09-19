@@ -46,6 +46,10 @@ warp添加IPV4的脚本
 wget -N https://raw.githubusercontent.com/lovelves/argo-install/main/warp.sh && bash warp.sh
 ```
 
+安装bt下载器
+```
+wget -N --no-check-certificate https://raw.githubusercontent.com/ToyoDAdoubiBackup/doubi/master/cloudt.sh && chmod +x cloudt.sh && bash cloudt.sh
+```
 
 
 
