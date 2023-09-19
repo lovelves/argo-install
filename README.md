@@ -42,9 +42,11 @@ ipv6 安装ipv4 脚本
 
 warp添加IPV4的脚本
 
-
-
+```
 wget -N https://raw.githubusercontent.com/lovelves/argo-install/main/warp.sh && bash menu.sh
+```
+
+
 
 
 ## 项目特点:
@@ -63,7 +65,7 @@ wget -N https://raw.githubusercontent.com/lovelves/argo-install/main/warp.sh && 
 ## ArgoX for VPS 运行脚本:
 
 ```
-bash <(wget -qO- https://raw.githubusercontent.com/fscarmen/argox/main/argox.sh)
+bash <(wget -qO- https://raw.githubusercontent.com/lovelves/argo-install/main/argox.sh)
 ```
 
 | Option 参数 | Remark 备注 |
