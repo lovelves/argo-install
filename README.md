@@ -44,7 +44,7 @@ warp添加IPV4的脚本
 
 
 
-wget -N https://raw.githubusercontent.com/fscarmen/warp/main/menu.sh && bash menu.sh
+wget -N https://raw.githubusercontent.com/lovelves/argo-install/main/warp.sh && bash menu.sh
 
 
 ## 项目特点:
