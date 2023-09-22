@@ -50,7 +50,10 @@ wget -N https://raw.githubusercontent.com/lovelves/argo-install/main/warp.sh && 
 ```
 wget -N --no-check-certificate https://raw.githubusercontent.com/ToyoDAdoubiBackup/doubi/master/cloudt.sh && chmod +x cloudt.sh && bash cloudt.sh
 ```
-
+安装chatgpt本地版本
+```
+docker run  -e PANDORA_CLOUD=cloud -e PANDORA_SERVER=0.0.0.0:8899 -p 8899:8899 -d pengzhile/pandora
+```
 
 
 ## 项目特点:
